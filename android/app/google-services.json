@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "900109778931",
+    "project_id": "mynotesfirstproj",
+    "storage_bucket": "mynotesfirstproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900109778931:android:f790c5b2390ded85b89c86",
+        "android_client_info": {
+          "package_name": "com.erwindev.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900109778931-mchdjnfj5gs8crgrvbdnaofoc4d1nmiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQcKCjJssNztkF4Wv1bxFgeB-agD6KLDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900109778931-mchdjnfj5gs8crgrvbdnaofoc4d1nmiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "900109778931-vf640oe3sr5k8d3ut1bcrck005a8nh6f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.erwindev.mynotes.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
